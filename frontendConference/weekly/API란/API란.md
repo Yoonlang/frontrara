@@ -15,7 +15,7 @@
 
 ---
 
-![Untitled](API%E1%84%85%E1%85%A1%E1%86%AB%20c1d3aba51757493eae5336ed346ef71f/Untitled.png)
+![Untitled](./images/0.png)
 
 <aside>
 💡 API는 애플리케이션 소프트웨어를 빌드하고 통합하기 위한 정의 및 프로토콜 세트인 애플리케이션 프로그래밍 인터페이스(Application Programming Interface)를 뜻합니다.
@@ -51,7 +51,7 @@
 
 ---
 
-![Untitled](API%E1%84%85%E1%85%A1%E1%86%AB%20c1d3aba51757493eae5336ed346ef71f/Untitled%201.png)
+![Untitled](./images/1.png)
 
 ## RPC(Remote Procedure Call) Pattern
 
@@ -117,9 +117,9 @@
 
 URL **⊂** URI
 
-![Untitled](API%E1%84%85%E1%85%A1%E1%86%AB%20c1d3aba51757493eae5336ed346ef71f/Untitled%202.png)
+![Untitled](./images/2.png)
 
-![Untitled](API%E1%84%85%E1%85%A1%E1%86%AB%20c1d3aba51757493eae5336ed346ef71f/Untitled%203.png)
+![Untitled](./images/3.png)
 
 URI는 **식별!** 해준다는 게 중요함. .html이나 .pdf 등이 붙지 않아도 URI가 될 수 있음.
 
@@ -274,7 +274,7 @@ socket.addEventListener('message', function (event) {
 - REST에서는 Resource에 대한 형태, 데이터 요청 방법이 연결되어 있지만, GraphQL에서는 Resource에 대한 형태 정의와 데이터 요청이 완전히 분리. GraphQL에서는 필요한 크기와 형태는 client단에서 요청 시 결정
 - REST에서는 여러 Resource에 접근할 때 여러 번의 요청이 필요하지만, GraphQL에서는 한번의 요청에서 여러 Resource에 접근 가능
 
-![Untitled](API%E1%84%85%E1%85%A1%E1%86%AB%20c1d3aba51757493eae5336ed346ef71f/Untitled%204.png)
+![Untitled](./images/4.png)
 
 # 출처
 
